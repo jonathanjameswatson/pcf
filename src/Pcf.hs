@@ -30,8 +30,7 @@ module Pcf
         If,
         Lambda,
         Apply,
-        Fix,
-        VarLit
+        Fix
       ),
     var,
     lambda,
